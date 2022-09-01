@@ -1,4 +1,26 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex: column;
+  justify-content: center;
 }
 
+.InventoryInputs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.InventoryInputs input{
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.InventoryInputs button{
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 10px;
+}
