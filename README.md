@@ -1,1 +1,1 @@
-Supervise will be an inventory manager created using React, Node.Js, Express, and MySQL. 
+Supervise will be an product inventory manager created using React, Node.Js, Express, and MySQL. 
