@@ -23,4 +23,17 @@
   height: 40px;
   font-size: 20px;
   margin-top: 10px;
+  background-color: rgb(44, 130, 241);
+  color: white;
+}
+
+.InventoryInputs button:hover{
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 10px;
+  background-color: rgb(35, 108, 204);
+  color: white;
+  cursor: pointer;
+  
 }
