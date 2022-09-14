@@ -8,7 +8,7 @@ function App() {
   const [Brand, setBrand] = useState("");
   const [Price, setPrice] = useState(0);
   const [Quantity, setQuantity] = useState(0);
-  const [Date, setDate] = useState("");
+  const [Date, setDate] = useState(""); 
 
   return (
     <div className="App">
